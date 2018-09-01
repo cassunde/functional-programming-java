@@ -1,6 +1,6 @@
 # Sample Functional
 
-This project use programming functional
+This project use functional programming
 
 **BASIC**
 
