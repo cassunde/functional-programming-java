@@ -1,10 +1,10 @@
 # Sample Functional
 
-This project use programming functional
+This project use functional programming
 
 **BASIC**
 
-In this package `br.com.cassunde.basic` , exist tow packages:
+In this package `br.com.cassunde.basic` , exist two packages:
 
 - bad
 
