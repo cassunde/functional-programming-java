@@ -1,4 +1,4 @@
-package br.com.cassunde.basic.good;
+package br.com.cassunde.filter.good;
 
 import br.com.cassunde.Car;
 

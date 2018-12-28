@@ -1,4 +1,4 @@
-package br.com.cassunde.basic.good;
+package br.com.cassunde.filter.good;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -14,7 +14,7 @@ import br.com.cassunde.Car;
  * see {@link CarPredicate}, and {@link GreenCar} and {@link CarMaxTenYear}
  *
  * */
-public class CarTest {
+public class Main {
 
 	private static List<Car> filterCar(List<Car> cars, CarPredicate predicate){
 		
@@ -28,7 +28,6 @@ public class CarTest {
 		
 		return result;
 	}
-	
 	
 	public static void main(String[] args) {
 		List<Car> cars = Arrays.asList(new Car("Green", 2017), new Car("Red", 2016), new Car("Black", 1995));

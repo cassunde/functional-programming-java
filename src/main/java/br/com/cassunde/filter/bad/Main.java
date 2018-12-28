@@ -1,4 +1,4 @@
-package br.com.cassunde.basic.bad;
+package br.com.cassunde.filter.bad;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -12,7 +12,7 @@ import br.com.cassunde.Car;
  * you should some methods to filter the List of Car.
  *
  * */
-public class CarTest {
+public class Main {
 
 	private static List<Car> filterGreenCar(List<Car> cars){
 		

@@ -1,4 +1,4 @@
-package br.com.cassunde.basic.bad;
+package br.com.cassunde.filter.bad;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
